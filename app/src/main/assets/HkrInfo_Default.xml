@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+    <lastModified>2021-03-16T17:05:40+08:00</lastModified>
+
+    <menuEntry entry="University Faculties">
+        <title>School Faculties</title>
+        <body>Here you can find information about the faculties of the university:</body>
+
+        <menuEntry entry="Natural Sciences">
+            <title>Faculty of Natural Sciences</title>
+            <body>Education and research is conducted at the faculty within three departments:</body>
+
+            <link description="Department of Computer Science Web Page">https://www.hkr.se/en/section/Department%20of%20Computer%20Science</link>
+            <link description="Department of Food and Meal Science Web Page">https://www.hkr.se/en/section/Department%20of%20Food%20and%20Meal%20Science</link>
+            <link description="Department of Environmental Science and Bioscience Web Page">https://www.hkr.se/en/section/Department%20of%20Environmental%20Science%20and%20Bioscience</link>
+
+            <phoneNumber description="Phone: ">+46-442503200</phoneNumber>
+        </menuEntry>
+
+        <menuEntry entry="Health Sciences">
+            <title>Faculty of Health Sciences</title>
+            <body>Education and research is conducted at the faculty within four departments:</body>
+
+            <link description="Department of Nursing and Integrated Health Sciences Web Page">https://www.hkr.se/en/section/Department%20of%20Nursing%20and%20Integrated%20Health%20Sciences</link>
+            <link description="Department of Oral Health Web Page">https://www.hkr.se/en/section/Department%20of%20Oral%20Health</link>
+            <link description="Department of Public Health Web Page">https://www.hkr.se/en/section/Department%20of%20Public%20Health</link>
+            <link description="Department of Social Sciences Web Page">https://www.hkr.se/en/section/Department%20of%20Social%20Sciences</link>
+
+            <phoneNumber description="Phone: ">+46-442503100</phoneNumber>
+        </menuEntry>
+
+        <menuEntry entry="Education">
+            <title>Faculty of Education</title>
+            <body>Education and research is conducted at the faculty within five departments:</body>
+
+            <link description="Department of Humanities Web Page">https://www.hkr.se/en/section/Department%20of%20Humanities</link>
+            <link description="Department of Mathematics and Science Education Web Page">https://www.hkr.se/en/section/Department%20of%20Mathematics%20and%20Science%20Education</link>
+            <link description="Department of Psychology Web Page">https://www.hkr.se/en/section/Department%20of%20Psychology</link>
+            <link description="Department of Educational Sciences specializing in Pre-School and After School Care, Teaching and Learning Web Page">https://www.hkr.se/en/section/Department%20of%20Educational%20Sciences%20specializing%20in%20Pre-School%20and%20After%20School%20Care,%20Teaching%20and%20Learning</link>
+            <link description="Department of Educational Sciences specializing in Primary and Secondary School, and Special Needs Education Web Page">https://www.hkr.se/en/section/Department%20of%20Educational%20Sciences%20specializing%20in%20Primary%20and%20Secondary%20School,%20and%20Special%20Needs%20Education</link>
+
+            <phoneNumber description="Phone: ">+46-442503200</phoneNumber>
+        </menuEntry>
+
+        <menuEntry entry="Business">
+            <title>Faculty of Business</title>
+            <body>Education and research is conducted at the faculty within three departments:</body>
+
+            <link description="Department of Business Web Page">https://www.hkr.se/en/section/Department%20of%20Business</link>
+            <link description="Department of Design Web Page">https://www.hkr.se/en/section/Department%20of%20Design</link>
+            <link description="Department of Work Science Web Page">https://www.hkr.se/en/section/Department%20of%20Work%20Science</link>
+
+        </menuEntry>
+    </menuEntry>
+
+    <menuEntry entry="Kristianstad Student Union">
+        <title>Kristianstad Studentkår</title>
+        <body>    The Kristianstad Student Union works here at Kristianstad University for all the students studying here.\n\n    We are students who represent other students in questions where HKR or other organisations wants the general student opinion. At the same time as we represent students we also work with making the time students have here memorable and rewarding.\n\n    We do this by organizing events such as the kick-off, but we are also here when students need help!\n\n    Both the Student proxy and the Student chief safety representative works with helping students who needs help or have questions regarding anything from the disciplinary committee to the working environment.\n\n    Never hesitate to contact us when you need help, have questions or want to engage in any way to give students a better study time!</body>
+
+        <link description="Kristianstad Studentkår Website">https://www.ksk.nu/</link>
+    </menuEntry>
+
+    <menuEntry entry="Ladok Study Manger">
+        <title>Ladok</title>
+        <body>You can mange your studies, check your study results, register courses and print print certificates from Ladok.</body>
+
+        <link description="Ladok Website">https://www.student.ladok.se</link>
+    </menuEntry>
+
+    <menuEntry entry="City Services">
+        <title>City Services</title>
+        <body>Here you can find the information about various city services: </body>
+
+        <menuEntry entry="Police">
+            <title>Police</title>
+            <body>Sweden Police Service:</body>
+            <phoneNumber description="Police Report: ">11414</phoneNumber>
+            <phoneNumber description="In Emergency: ">112</phoneNumber>
+            <link description="Sweden Police Website">https://polisen.se/en/</link>
+        </menuEntry>
+
+        <menuEntry entry="Healthcare">
+            <title>Healthcare</title>
+            <body>Skåne Healthcare Service:</body>
+            <phoneNumber description="Healthcare Advice: ">11414</phoneNumber>
+            <phoneNumber description="In Emergency: ">112</phoneNumber>
+            <link description="Skåne Healthcare Website">https://www.skane.se/en/</link>
+        </menuEntry>
+
+        <phoneNumber description="Emergency: ">112</phoneNumber>
+    </menuEntry>
+
+    <menuEntry entry="About the App">
+        <title>About the App</title>
+        <body>Developers:\n    Musa Naji\n    Runan Wang\n    John Ofodile\n    Osas Edu</body>
+    </menuEntry>
+
+</root>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="file_hkr_info_online_cache">HkrInfo_Online.xml</string>
+    <string name="file_hkr_info_default">HkrInfo_Default.xml</string>
+    <string name="file_hkr_info_local_cache">HkrInfo.xml</string>
+</resources>
